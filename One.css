@@ -1,0 +1,92 @@
+.Full{
+         background-color: #D9433B;
+}
+
+.Wrap{
+         background-color:#824D3D;
+         font-size:16px;
+         color:#D9433B;
+         text-align: center;
+}
+
+.BeautyHead{
+         font-size:25px;
+         color:#D9433B;
+         background-color:#824D3D;
+         background-image: url('img/NB1.jpg');
+         background-size:cover;
+         width: 100%;
+         height: 200px;
+}
+
+#BH1 {
+         text-align: center;
+         font-size: 3em;
+         color:#DBA204;
+         text-align:center;
+}
+
+.BH2 {
+         text-align: center;
+         color:#DBA204;
+         font-size: 25px;
+}
+.BH3{
+         color:#DBA204;
+         font-size: 25px;
+      
+}
+
+.BH4{
+         font-size:16px;
+         color:#D9433B;
+         text-align: center;
+}
+
+.Beauty    {
+         background-color:#824D3D;
+         color:#D9433B;
+         text-align: center;
+         
+}
+         
+.Fitness    {
+         border-style:solid;
+         border-width:1px;
+         border-color:black;
+         background-color:#824D3D;
+         
+}
+         
+.Travel    {
+         border-style:solid;
+         border-width:1px;
+         border-color:black;
+         background-color:#824D3D;
+}
+
+.TravelHead {
+         font-size:4em;
+         color:#0E571F;
+         background-image: url('img/WM4.jpg');
+         background-size:cover;
+         width: 100%;
+         height: 200px;
+         text-align: center;
+}
+
+.jumbotron {
+    background-image: url('img/NP3.jpg');
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    color:#9E092A;
+    font-size:9em;
+    text-align: center;
+
+
+@media only screen and (max-width: 320px) { 
+
+body { font-size: 2em; } 
+
+}
